@@ -1,1 +1,1 @@
-website for [sohavillage](http://www.http://sohavillage.com)
+website for [sohavillage](http://www.sohavillage.com)
