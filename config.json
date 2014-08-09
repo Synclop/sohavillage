@@ -1,0 +1,28 @@
+{
+	"name":"Soha Village"
+,	"providers":["facebook/sohavillage"]
+,	"email":"info@sohavillage.com"
+,	"url":"http://www.http://sohavillage.com"
+,	"map":{
+		"style":"purple rain"
+	,	"zoomClose":12
+	,	"zoomFar":15
+	}
+,	"analytics":false
+,	"albums":[
+		{
+			"provider":"facebook"
+		,	"selector":"#website"
+		,	"field":"description"
+		,	"sortBy":"title"
+		}
+	]
+,	"info":"facebook"
+,	"location":"facebook"
+,	"colors":{
+		"color_accent_main": "#D17150"
+	,	"color_accent_second": "#D17150"
+	,	"color_background": "#F6F5E2"
+	}
+,	"template":"drawer"
+}
