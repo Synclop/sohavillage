@@ -2,7 +2,7 @@
 	"name":"Soha Village"
 ,	"providers":["facebook/sohavillage"]
 ,	"email":"info@sohavillage.com"
-,	"url":"http://sohavillage.com"
+,	"url":"http://www.sohavillage.com"
 ,	"map":{
 		"style":"purple rain"
 	,	"zoomClose":12
@@ -25,4 +25,5 @@
 	,	"color_background": "#F6F5E2"
 	}
 ,	"template":"drawer"
+,	"showLogoTitle":false
 }
