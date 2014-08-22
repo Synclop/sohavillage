@@ -20,9 +20,10 @@
 ,	"info":"facebook"
 ,	"location":"facebook"
 ,	"colors":{
-		"color_accent_main": "#000000"
-	,	"color_text": "#525252"
-	,	"color_background": "#FFFFFF"
+		"color_accent_main": "#4B4B4B"
+	,	"color_text": "#707070"
+	,	"color_background": "#FDFDFD"
+	,	"color_address_box": "#A5A5A5"
 	}
 ,	"template":"drawer"
 ,	"showLogoTitle":false
